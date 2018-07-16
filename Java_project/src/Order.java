@@ -7,7 +7,7 @@ public class Order {
 		
 	public int getTableNum() {
 		return tableNum;
-	}
+	}	
 
 	public void setTableNum(int tableNum) {
 		this.tableNum = tableNum;
