@@ -13,6 +13,7 @@ public class Order {
 		this.tableNum = tableNum;
 	}
 
+	
 	public String getOrderedMenu() {
 		return orderedMenu;
 	}
