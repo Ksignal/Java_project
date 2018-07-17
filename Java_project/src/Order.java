@@ -4,7 +4,8 @@ public class Order {
 	private String orderedMenu;
 	private int price;
 	private int orderedNum;
-		
+
+	
 	public int getTableNum() {
 		return tableNum;
 	}	
