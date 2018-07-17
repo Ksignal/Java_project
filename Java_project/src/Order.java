@@ -6,6 +6,7 @@ public class Order {
 	private int orderedNum;
 
 	
+	
 	public int getTableNum() {
 		return tableNum;
 	}	
