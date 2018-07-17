@@ -5,8 +5,6 @@ public class Order {
 	private int price;
 	private int orderedNum;
 
-	
-	
 	public int getTableNum() {
 		return tableNum;
 	}	
